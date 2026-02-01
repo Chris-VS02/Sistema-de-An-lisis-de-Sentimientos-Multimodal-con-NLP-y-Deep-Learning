@@ -23,7 +23,6 @@ The dataset used contains **Amazon Fine Food Reviews**, and the workflow include
 
 ### System Pipeline
 
-> You can place your workflow or architecture diagram inside a folder like `/docs` and update the image path below.
 
 ![Project Architecture](Word_cloud.png)
 
